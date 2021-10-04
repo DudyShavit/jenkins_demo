@@ -1,1 +1,1 @@
-print("hello kamatec")
+print("hello kamatec, scm polling!")
